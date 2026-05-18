@@ -1,0 +1,3565 @@
+[
+  {
+    "university_name": "جامعة الأهرام الكندية (ACU)",
+    "type": "private",
+    "faculties": [
+      {
+        "name": "حاسبات ومعلومات",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "هندسة وتكنولوجيا",
+        "years": 5,
+        "primary": false
+      },
+      {
+        "name": "إدارة أعمال",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "إعلام وتواصل",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "صيدلة",
+        "years": 5,
+        "primary": false
+      },
+      {
+        "name": "طب أسنان",
+        "years": 5,
+        "primary": false
+      },
+      {
+        "name": "ألسن وترجمة",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "فنون وتصميم",
+        "years": 4,
+        "primary": false
+      }
+    ]
+  },
+  {
+    "university_name": "جامعة القاهرة",
+    "type": "public",
+    "faculties": [
+      {
+        "name": "طب",
+        "years": 6,
+        "primary": false
+      },
+      {
+        "name": "طب أسنان",
+        "years": 5,
+        "primary": false
+      },
+      {
+        "name": "صيدلة",
+        "years": 5,
+        "primary": false
+      },
+      {
+        "name": "طب بيطري",
+        "years": 5,
+        "primary": false
+      },
+      {
+        "name": "هندسة",
+        "years": 5,
+        "primary": false
+      },
+      {
+        "name": "علوم",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "حاسبات ومعلومات",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "زراعة",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "اقتصاد وعلوم سياسية",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "حقوق",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "آداب",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "تربية",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "تجارة",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "إعلام",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "دار العلوم",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "تربية رياضية",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "الألسن",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "الفنون التطبيقية",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "التخطيط الإقليمي والعمراني",
+        "years": 4,
+        "primary": false
+      }
+    ]
+  },
+  {
+    "university_name": "جامعة عين شمس",
+    "type": "public",
+    "faculties": [
+      {
+        "name": "طب",
+        "years": 6,
+        "primary": false
+      },
+      {
+        "name": "طب أسنان",
+        "years": 5,
+        "primary": false
+      },
+      {
+        "name": "صيدلة",
+        "years": 5,
+        "primary": false
+      },
+      {
+        "name": "هندسة",
+        "years": 5,
+        "primary": false
+      },
+      {
+        "name": "علوم",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "زراعة",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "آداب",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "حقوق",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "تجارة",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "تربية",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "تمريض",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "البنات",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "حاسبات ومعلومات",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "الألسن",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "التربية النوعية",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "خدمة اجتماعية",
+        "years": 4,
+        "primary": false
+      }
+    ]
+  },
+  {
+    "university_name": "جامعة الإسكندرية",
+    "type": "public",
+    "faculties": [
+      {
+        "name": "طب",
+        "years": 6,
+        "primary": false
+      },
+      {
+        "name": "طب أسنان",
+        "years": 5,
+        "primary": false
+      },
+      {
+        "name": "صيدلة",
+        "years": 5,
+        "primary": false
+      },
+      {
+        "name": "هندسة",
+        "years": 5,
+        "primary": false
+      },
+      {
+        "name": "علوم",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "زراعة",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "آداب",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "حقوق",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "تجارة",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "تربية",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "تمريض",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "الفنون الجميلة",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "التربية الموسيقية",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "السياحة والفنادق",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "خدمة اجتماعية",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "رياضة بحرية",
+        "years": 4,
+        "primary": false
+      }
+    ]
+  },
+  {
+    "university_name": "جامعة المنصورة",
+    "type": "public",
+    "faculties": [
+      {
+        "name": "طب",
+        "years": 6,
+        "primary": false
+      },
+      {
+        "name": "طب أسنان",
+        "years": 5,
+        "primary": false
+      },
+      {
+        "name": "صيدلة",
+        "years": 5,
+        "primary": false
+      },
+      {
+        "name": "هندسة",
+        "years": 5,
+        "primary": false
+      },
+      {
+        "name": "علوم",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "زراعة",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "آداب",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "حقوق",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "تجارة",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "تربية",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "تمريض",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "حاسبات ومعلومات",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "السياحة والفنادق",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "التربية النوعية",
+        "years": 4,
+        "primary": false
+      }
+    ]
+  },
+  {
+    "university_name": "جامعة طنطا",
+    "type": "public",
+    "faculties": [
+      {
+        "name": "طب",
+        "years": 6,
+        "primary": false
+      },
+      {
+        "name": "طب أسنان",
+        "years": 5,
+        "primary": false
+      },
+      {
+        "name": "صيدلة",
+        "years": 5,
+        "primary": false
+      },
+      {
+        "name": "هندسة",
+        "years": 5,
+        "primary": false
+      },
+      {
+        "name": "علوم",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "زراعة",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "آداب",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "حقوق",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "تجارة",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "تربية",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "تمريض",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "طب بيطري",
+        "years": 5,
+        "primary": false
+      },
+      {
+        "name": "التربية النوعية",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "الفنون الجميلة",
+        "years": 4,
+        "primary": false
+      }
+    ]
+  },
+  {
+    "university_name": "جامعة الزقازيق",
+    "type": "public",
+    "faculties": [
+      {
+        "name": "طب",
+        "years": 6,
+        "primary": false
+      },
+      {
+        "name": "طب بيطري",
+        "years": 5,
+        "primary": false
+      },
+      {
+        "name": "هندسة",
+        "years": 5,
+        "primary": false
+      },
+      {
+        "name": "علوم",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "زراعة",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "آداب",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "حقوق",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "تجارة",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "تربية",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "تربية نوعية",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "حاسبات ومعلومات",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "الدراسات البيئية",
+        "years": 4,
+        "primary": false
+      }
+    ]
+  },
+  {
+    "university_name": "جامعة حلوان",
+    "type": "public",
+    "faculties": [
+      {
+        "name": "هندسة",
+        "years": 5,
+        "primary": false
+      },
+      {
+        "name": "علوم",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "آداب",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "تجارة",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "تربية",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "تمريض",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "السياحة والفنادق",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "الفنون الجميلة",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "الفنون التطبيقية",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "تربية موسيقية",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "تربية رياضية",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "خدمة اجتماعية",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "حاسبات ومعلومات",
+        "years": 4,
+        "primary": false
+      }
+    ]
+  },
+  {
+    "university_name": "جامعة بنها",
+    "type": "public",
+    "faculties": [
+      {
+        "name": "طب",
+        "years": 6,
+        "primary": false
+      },
+      {
+        "name": "طب بيطري",
+        "years": 5,
+        "primary": false
+      },
+      {
+        "name": "هندسة",
+        "years": 5,
+        "primary": false
+      },
+      {
+        "name": "علوم",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "زراعة",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "آداب",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "حقوق",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "تجارة",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "تربية",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "تمريض",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "التربية النوعية",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "حاسبات ومعلومات",
+        "years": 4,
+        "primary": false
+      }
+    ]
+  },
+  {
+    "university_name": "جامعة المنوفية",
+    "type": "public",
+    "faculties": [
+      {
+        "name": "طب",
+        "years": 6,
+        "primary": false
+      },
+      {
+        "name": "هندسة إلكترونية",
+        "years": 5,
+        "primary": false
+      },
+      {
+        "name": "علوم",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "زراعة",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "آداب",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "تجارة",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "تربية",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "تمريض",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "الاقتصاد المنزلي",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "خدمة اجتماعية",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "حاسبات ومعلومات",
+        "years": 4,
+        "primary": false
+      }
+    ]
+  },
+  {
+    "university_name": "جامعة أسيوط",
+    "type": "public",
+    "faculties": [
+      {
+        "name": "طب",
+        "years": 6,
+        "primary": false
+      },
+      {
+        "name": "طب أسنان",
+        "years": 5,
+        "primary": false
+      },
+      {
+        "name": "صيدلة",
+        "years": 5,
+        "primary": false
+      },
+      {
+        "name": "طب بيطري",
+        "years": 5,
+        "primary": false
+      },
+      {
+        "name": "هندسة",
+        "years": 5,
+        "primary": false
+      },
+      {
+        "name": "علوم",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "زراعة",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "آداب",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "حقوق",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "تجارة",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "تربية",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "تمريض",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "التربية النوعية",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "خدمة اجتماعية",
+        "years": 4,
+        "primary": false
+      }
+    ]
+  },
+  {
+    "university_name": "جامعة سوهاج",
+    "type": "public",
+    "faculties": [
+      {
+        "name": "طب",
+        "years": 6,
+        "primary": false
+      },
+      {
+        "name": "هندسة",
+        "years": 5,
+        "primary": false
+      },
+      {
+        "name": "علوم",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "زراعة",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "آداب",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "حقوق",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "تجارة",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "تربية",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "تمريض",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "التربية النوعية",
+        "years": 4,
+        "primary": false
+      }
+    ]
+  },
+  {
+    "university_name": "جامعة الأقصر",
+    "type": "public",
+    "faculties": [
+      {
+        "name": "الفنون الجميلة",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "السياحة والفنادق",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "هندسة",
+        "years": 5,
+        "primary": false
+      },
+      {
+        "name": "علوم",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "آداب",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "تجارة",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "تربية",
+        "years": 4,
+        "primary": false
+      }
+    ]
+  },
+  {
+    "university_name": "جامعة جنوب الوادي",
+    "type": "public",
+    "faculties": [
+      {
+        "name": "طب",
+        "years": 6,
+        "primary": false
+      },
+      {
+        "name": "هندسة",
+        "years": 5,
+        "primary": false
+      },
+      {
+        "name": "علوم",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "زراعة",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "آداب",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "تجارة",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "تربية",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "السياحة والفنادق",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "الفنون الجميلة",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "تمريض",
+        "years": 4,
+        "primary": false
+      }
+    ]
+  },
+  {
+    "university_name": "جامعة أسوان",
+    "type": "public",
+    "faculties": [
+      {
+        "name": "هندسة",
+        "years": 5,
+        "primary": false
+      },
+      {
+        "name": "علوم",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "آداب",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "تجارة",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "تربية",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "خدمة اجتماعية",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "الفنون الجميلة",
+        "years": 4,
+        "primary": false
+      }
+    ]
+  },
+  {
+    "university_name": "جامعة قناة السويس",
+    "type": "public",
+    "faculties": [
+      {
+        "name": "طب",
+        "years": 6,
+        "primary": false
+      },
+      {
+        "name": "طب أسنان",
+        "years": 5,
+        "primary": false
+      },
+      {
+        "name": "صيدلة",
+        "years": 5,
+        "primary": false
+      },
+      {
+        "name": "هندسة",
+        "years": 5,
+        "primary": false
+      },
+      {
+        "name": "علوم",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "آداب",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "تجارة",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "تربية",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "تمريض",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "معهد بحوث البترول",
+        "years": 4,
+        "primary": false
+      }
+    ]
+  },
+  {
+    "university_name": "جامعة بورسعيد",
+    "type": "public",
+    "faculties": [
+      {
+        "name": "هندسة",
+        "years": 5,
+        "primary": false
+      },
+      {
+        "name": "علوم",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "آداب",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "تجارة",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "تربية",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "تمريض",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "التربية النوعية",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "الفنون التطبيقية",
+        "years": 4,
+        "primary": false
+      }
+    ]
+  },
+  {
+    "university_name": "جامعة دمياط",
+    "type": "public",
+    "faculties": [
+      {
+        "name": "هندسة",
+        "years": 5,
+        "primary": false
+      },
+      {
+        "name": "علوم",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "زراعة",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "آداب",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "تجارة",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "تربية",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "تمريض",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "التربية النوعية",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "الفنون التطبيقية",
+        "years": 4,
+        "primary": false
+      }
+    ]
+  },
+  {
+    "university_name": "جامعة كفر الشيخ",
+    "type": "public",
+    "faculties": [
+      {
+        "name": "طب",
+        "years": 6,
+        "primary": false
+      },
+      {
+        "name": "طب بيطري",
+        "years": 5,
+        "primary": false
+      },
+      {
+        "name": "هندسة",
+        "years": 5,
+        "primary": false
+      },
+      {
+        "name": "علوم",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "زراعة",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "آداب",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "تجارة",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "تربية",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "تمريض",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "التربية النوعية",
+        "years": 4,
+        "primary": false
+      }
+    ]
+  },
+  {
+    "university_name": "جامعة دمنهور",
+    "type": "public",
+    "faculties": [
+      {
+        "name": "طب",
+        "years": 6,
+        "primary": false
+      },
+      {
+        "name": "علوم",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "آداب",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "حقوق",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "تجارة",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "تربية",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "تمريض",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "الفنون الجميلة",
+        "years": 4,
+        "primary": false
+      }
+    ]
+  },
+  {
+    "university_name": "جامعة مدينة السادات",
+    "type": "public",
+    "faculties": [
+      {
+        "name": "هندسة",
+        "years": 5,
+        "primary": false
+      },
+      {
+        "name": "علوم",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "زراعة",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "آداب",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "تجارة",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "تربية",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "التربية النوعية",
+        "years": 4,
+        "primary": false
+      }
+    ]
+  },
+  {
+    "university_name": "جامعة بني سويف",
+    "type": "public",
+    "faculties": [
+      {
+        "name": "طب",
+        "years": 6,
+        "primary": false
+      },
+      {
+        "name": "صيدلة",
+        "years": 5,
+        "primary": false
+      },
+      {
+        "name": "هندسة",
+        "years": 5,
+        "primary": false
+      },
+      {
+        "name": "علوم",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "زراعة",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "آداب",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "حقوق",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "تجارة",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "تربية",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "تمريض",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "الفنون الجميلة",
+        "years": 4,
+        "primary": false
+      }
+    ]
+  },
+  {
+    "university_name": "جامعة الفيوم",
+    "type": "public",
+    "faculties": [
+      {
+        "name": "طب",
+        "years": 6,
+        "primary": false
+      },
+      {
+        "name": "هندسة",
+        "years": 5,
+        "primary": false
+      },
+      {
+        "name": "علوم",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "زراعة",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "آداب",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "حقوق",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "تجارة",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "تربية",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "تمريض",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "الآثار",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "السياحة والفنادق",
+        "years": 4,
+        "primary": false
+      }
+    ]
+  },
+  {
+    "university_name": "جامعة المنيا",
+    "type": "public",
+    "faculties": [
+      {
+        "name": "طب",
+        "years": 6,
+        "primary": false
+      },
+      {
+        "name": "طب أسنان",
+        "years": 5,
+        "primary": false
+      },
+      {
+        "name": "صيدلة",
+        "years": 5,
+        "primary": false
+      },
+      {
+        "name": "هندسة",
+        "years": 5,
+        "primary": false
+      },
+      {
+        "name": "علوم",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "زراعة",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "آداب",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "حقوق",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "تجارة",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "تربية",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "تمريض",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "الفنون الجميلة",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "دار العلوم",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "التربية النوعية",
+        "years": 4,
+        "primary": false
+      }
+    ]
+  },
+  {
+    "university_name": "جامعة الوادي الجديد",
+    "type": "public",
+    "faculties": [
+      {
+        "name": "هندسة",
+        "years": 5,
+        "primary": false
+      },
+      {
+        "name": "علوم",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "آداب",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "تجارة",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "تربية",
+        "years": 4,
+        "primary": false
+      }
+    ]
+  },
+  {
+    "university_name": "جامعة مطروح",
+    "type": "public",
+    "faculties": [
+      {
+        "name": "هندسة",
+        "years": 5,
+        "primary": false
+      },
+      {
+        "name": "علوم",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "آداب",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "تجارة",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "تربية",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "السياحة والفنادق",
+        "years": 4,
+        "primary": false
+      }
+    ]
+  },
+  {
+    "university_name": "جامعة العريش",
+    "type": "public",
+    "faculties": [
+      {
+        "name": "طب",
+        "years": 6,
+        "primary": false
+      },
+      {
+        "name": "هندسة",
+        "years": 5,
+        "primary": false
+      },
+      {
+        "name": "علوم",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "آداب",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "تجارة",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "تربية",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "تمريض",
+        "years": 4,
+        "primary": false
+      }
+    ]
+  },
+  {
+    "university_name": "جامعة سيناء",
+    "type": "private",
+    "faculties": [
+      {
+        "name": "طب",
+        "years": 6,
+        "primary": false
+      },
+      {
+        "name": "صيدلة",
+        "years": 5,
+        "primary": false
+      },
+      {
+        "name": "هندسة",
+        "years": 5,
+        "primary": false
+      },
+      {
+        "name": "حاسبات ومعلومات",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "تجارة وإدارة أعمال",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "الألسن",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "السياحة والفنادق",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "تمريض",
+        "years": 4,
+        "primary": false
+      }
+    ]
+  },
+  {
+    "university_name": "جامعة الجلالة",
+    "type": "public",
+    "faculties": [
+      {
+        "name": "طب",
+        "years": 6,
+        "primary": false
+      },
+      {
+        "name": "هندسة",
+        "years": 5,
+        "primary": false
+      },
+      {
+        "name": "علوم",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "حاسبات ومعلومات",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "صيدلة",
+        "years": 5,
+        "primary": false
+      },
+      {
+        "name": "تمريض",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "إدارة أعمال",
+        "years": 4,
+        "primary": false
+      }
+    ]
+  },
+  {
+    "university_name": "جامعة الملك سلمان الدولية",
+    "type": "public",
+    "faculties": [
+      {
+        "name": "هندسة وتكنولوجيا",
+        "years": 5,
+        "primary": false
+      },
+      {
+        "name": "الأعمال",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "السياحة والضيافة",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "الطب",
+        "years": 6,
+        "primary": false
+      },
+      {
+        "name": "العلوم",
+        "years": 4,
+        "primary": false
+      }
+    ]
+  },
+  {
+    "university_name": "جامعة شرم الشيخ",
+    "type": "public",
+    "faculties": [
+      {
+        "name": "طب",
+        "years": 6,
+        "primary": false
+      },
+      {
+        "name": "هندسة",
+        "years": 5,
+        "primary": false
+      },
+      {
+        "name": "علوم",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "السياحة والفنادق",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "تجارة",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "حاسبات ومعلومات",
+        "years": 4,
+        "primary": false
+      }
+    ]
+  },
+  {
+    "university_name": "جامعة الضبعة",
+    "type": "public",
+    "faculties": [
+      {
+        "name": "هندسة نووية",
+        "years": 5,
+        "primary": false
+      },
+      {
+        "name": "علوم",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "تجارة",
+        "years": 4,
+        "primary": false
+      }
+    ]
+  },
+  {
+    "university_name": "جامعة إسنا",
+    "type": "public",
+    "faculties": [
+      {
+        "name": "آداب",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "تجارة",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "تربية",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "علوم",
+        "years": 4,
+        "primary": false
+      }
+    ]
+  },
+  {
+    "university_name": "جامعة المنارة",
+    "type": "public",
+    "faculties": [
+      {
+        "name": "طب",
+        "years": 6,
+        "primary": false
+      },
+      {
+        "name": "هندسة",
+        "years": 5,
+        "primary": false
+      },
+      {
+        "name": "علوم",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "إدارة أعمال",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "تمريض",
+        "years": 4,
+        "primary": false
+      }
+    ]
+  },
+  {
+    "university_name": "جامعة الإسماعيلية الجديدة",
+    "type": "public",
+    "faculties": [
+      {
+        "name": "هندسة",
+        "years": 5,
+        "primary": false
+      },
+      {
+        "name": "علوم",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "تجارة",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "تربية",
+        "years": 4,
+        "primary": false
+      }
+    ]
+  },
+  {
+    "university_name": "جامعة القاهرة الجديدة التكنولوجية",
+    "type": "public",
+    "faculties": [
+      {
+        "name": "هندسة وتكنولوجيا",
+        "years": 5,
+        "primary": false
+      },
+      {
+        "name": "حاسبات ومعلومات",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "الإدارة والمعلومات",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "التصميم والفنون التطبيقية",
+        "years": 4,
+        "primary": false
+      }
+    ]
+  },
+  {
+    "university_name": "جامعة الإسكندرية الجديدة التكنولوجية",
+    "type": "public",
+    "faculties": [
+      {
+        "name": "هندسة وتكنولوجيا",
+        "years": 5,
+        "primary": false
+      },
+      {
+        "name": "حاسبات ومعلومات",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "الإدارة والمعلومات",
+        "years": 4,
+        "primary": false
+      }
+    ]
+  },
+  {
+    "university_name": "جامعة الصعيد التكنولوجية",
+    "type": "public",
+    "faculties": [
+      {
+        "name": "هندسة وتكنولوجيا",
+        "years": 5,
+        "primary": false
+      },
+      {
+        "name": "حاسبات ومعلومات",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "الإدارة والمعلومات",
+        "years": 4,
+        "primary": false
+      }
+    ]
+  },
+  {
+    "university_name": "جامعة الدلتا التكنولوجية",
+    "type": "public",
+    "faculties": [
+      {
+        "name": "هندسة وتكنولوجيا",
+        "years": 5,
+        "primary": false
+      },
+      {
+        "name": "حاسبات ومعلومات",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "الإدارة والمعلومات",
+        "years": 4,
+        "primary": false
+      }
+    ]
+  },
+  {
+    "university_name": "جامعة قناة السويس التكنولوجية",
+    "type": "public",
+    "faculties": [
+      {
+        "name": "هندسة وتكنولوجيا",
+        "years": 5,
+        "primary": false
+      },
+      {
+        "name": "حاسبات ومعلومات",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "الإدارة والمعلومات",
+        "years": 4,
+        "primary": false
+      }
+    ]
+  },
+  {
+    "university_name": "جامعة الأزهر",
+    "type": "azhar",
+    "faculties": [
+      {
+        "name": "طب",
+        "years": 6,
+        "primary": false
+      },
+      {
+        "name": "طب أسنان",
+        "years": 5,
+        "primary": false
+      },
+      {
+        "name": "صيدلة",
+        "years": 5,
+        "primary": false
+      },
+      {
+        "name": "هندسة",
+        "years": 5,
+        "primary": false
+      },
+      {
+        "name": "علوم",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "زراعة",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "آداب",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "حقوق",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "أصول الدين",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "الشريعة والقانون",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "اللغة العربية",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "الدراسات الإسلامية (بنات)",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "تجارة",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "تربية",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "الدراسات الإنسانية (بنات)",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "طب بيطري",
+        "years": 5,
+        "primary": false
+      }
+    ]
+  },
+  {
+    "university_name": "جامعة أكتوبر للعلوم الحديثة (O6U)",
+    "type": "private",
+    "faculties": [
+      {
+        "name": "طب أسنان",
+        "years": 5,
+        "primary": false
+      },
+      {
+        "name": "صيدلة",
+        "years": 5,
+        "primary": false
+      },
+      {
+        "name": "هندسة",
+        "years": 5,
+        "primary": false
+      },
+      {
+        "name": "حاسبات ومعلومات",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "إدارة أعمال",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "لغات وترجمة",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "تمريض",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "الفنون التطبيقية",
+        "years": 4,
+        "primary": false
+      }
+    ]
+  },
+  {
+    "university_name": "جامعة النهضة",
+    "type": "ahly",
+    "faculties": [
+      {
+        "name": "طب",
+        "years": 6,
+        "primary": false
+      },
+      {
+        "name": "صيدلة",
+        "years": 5,
+        "primary": false
+      },
+      {
+        "name": "هندسة",
+        "years": 5,
+        "primary": false
+      },
+      {
+        "name": "حاسبات ومعلومات",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "إدارة أعمال",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "آداب",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "تمريض",
+        "years": 4,
+        "primary": false
+      }
+    ]
+  },
+  {
+    "university_name": "جامعة مصر للعلوم والتكنولوجيا (MUST)",
+    "type": "private",
+    "faculties": [
+      {
+        "name": "طب",
+        "years": 6,
+        "primary": false
+      },
+      {
+        "name": "طب أسنان",
+        "years": 5,
+        "primary": false
+      },
+      {
+        "name": "صيدلة",
+        "years": 5,
+        "primary": false
+      },
+      {
+        "name": "هندسة",
+        "years": 5,
+        "primary": false
+      },
+      {
+        "name": "حاسبات ومعلومات",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "إدارة أعمال",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "تمريض",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "الفنون التطبيقية",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "العلاج الطبيعي",
+        "years": 4,
+        "primary": false
+      }
+    ]
+  },
+  {
+    "university_name": "جامعة 6 أكتوبر",
+    "type": "private",
+    "faculties": [
+      {
+        "name": "طب",
+        "years": 6,
+        "primary": false
+      },
+      {
+        "name": "طب أسنان",
+        "years": 5,
+        "primary": false
+      },
+      {
+        "name": "صيدلة",
+        "years": 5,
+        "primary": false
+      },
+      {
+        "name": "هندسة",
+        "years": 5,
+        "primary": false
+      },
+      {
+        "name": "حاسبات ومعلومات",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "إدارة أعمال",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "آداب",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "تجارة",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "تربية",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "السياحة والفنادق",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "الفنون التطبيقية",
+        "years": 4,
+        "primary": false
+      }
+    ]
+  },
+  {
+    "university_name": "جامعة العلوم والتكنولوجيا الحديثة (MSA)",
+    "type": "private",
+    "faculties": [
+      {
+        "name": "هندسة",
+        "years": 5,
+        "primary": false
+      },
+      {
+        "name": "حاسبات ومعلومات",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "طب أسنان",
+        "years": 5,
+        "primary": false
+      },
+      {
+        "name": "صيدلة",
+        "years": 5,
+        "primary": false
+      },
+      {
+        "name": "إدارة أعمال",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "لغات وترجمة",
+        "years": 4,
+        "primary": false
+      }
+    ]
+  },
+  {
+    "university_name": "جامعة مصر الدولية (MIU)",
+    "type": "private",
+    "faculties": [
+      {
+        "name": "هندسة",
+        "years": 5,
+        "primary": false
+      },
+      {
+        "name": "حاسبات ومعلومات",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "إدارة أعمال",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "صيدلة",
+        "years": 5,
+        "primary": false
+      },
+      {
+        "name": "طب أسنان",
+        "years": 5,
+        "primary": false
+      },
+      {
+        "name": "تصميم",
+        "years": 4,
+        "primary": false
+      }
+    ]
+  },
+  {
+    "university_name": "الجامعة البريطانية في مصر (BUE)",
+    "type": "International",
+    "faculties": [
+      {
+        "name": "هندسة",
+        "years": 5,
+        "primary": false
+      },
+      {
+        "name": "حاسبات ومعلومات",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "إدارة أعمال",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "الصيدلة والتكنولوجيا الحيوية",
+        "years": 5,
+        "primary": false
+      },
+      {
+        "name": "الإنسانيات والتصميم الإبداعي",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "القانون",
+        "years": 4,
+        "primary": false
+      }
+    ]
+  },
+  {
+    "university_name": "الجامعة الأمريكية في القاهرة (AUC)",
+    "type": "International",
+    "faculties": [
+      {
+        "name": "هندسة",
+        "years": 5,
+        "primary": false
+      },
+      {
+        "name": "علوم",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "إدارة أعمال",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "اقتصاد",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "الفنون والإنسانيات",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "العلوم الاجتماعية",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "الشؤون الدولية",
+        "years": 4,
+        "primary": false
+      }
+    ]
+  },
+  {
+    "university_name": "الجامعة الألمانية في القاهرة (GUC)",
+    "type": "International",
+    "faculties": [
+      {
+        "name": "هندسة وعلوم تطبيقية",
+        "years": 5,
+        "primary": false
+      },
+      {
+        "name": "إدارة أعمال",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "حاسبات ومعلومات",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "الصيدلة والتكنولوجيا الحيوية",
+        "years": 5,
+        "primary": false
+      },
+      {
+        "name": "معمار وتصميم داخلي",
+        "years": 5,
+        "primary": false
+      },
+      {
+        "name": "حقوق",
+        "years": 4,
+        "primary": false
+      }
+    ]
+  },
+  {
+    "university_name": "جامعة المستقبل (FUE)",
+    "type": "private",
+    "faculties": [
+      {
+        "name": "هندسة",
+        "years": 5,
+        "primary": false
+      },
+      {
+        "name": "حاسبات ومعلومات",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "صيدلة",
+        "years": 5,
+        "primary": false
+      },
+      {
+        "name": "إدارة أعمال",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "الألسن",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "طب أسنان",
+        "years": 5,
+        "primary": false
+      }
+    ]
+  },
+  {
+    "university_name": "جامعة فاروس",
+    "type": "private",
+    "faculties": [
+      {
+        "name": "هندسة",
+        "years": 5,
+        "primary": false
+      },
+      {
+        "name": "حاسبات ومعلومات",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "صيدلة",
+        "years": 5,
+        "primary": false
+      },
+      {
+        "name": "إدارة أعمال",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "آداب",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "التصميم والتكنولوجيا",
+        "years": 4,
+        "primary": false
+      }
+    ]
+  },
+  {
+    "university_name": "الأكاديمية العربية للعلوم والتكنولوجيا (AAST)",
+    "type": "private",
+    "faculties": [
+      {
+        "name": "الهندسة والتكنولوجيا",
+        "years": 5,
+        "primary": false
+      },
+      {
+        "name": "حاسبات ومعلومات",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "النقل الدولي واللوجستيات",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "الإدارة والتكنولوجيا",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "القانون البحري",
+        "years": 4,
+        "primary": false
+      }
+    ]
+  },
+  {
+    "university_name": "جامعة النيل",
+    "type": "private",
+    "faculties": [
+      {
+        "name": "هندسة",
+        "years": 5,
+        "primary": false
+      },
+      {
+        "name": "حاسبات ومعلومات",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "إدارة أعمال",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "العلوم والتكنولوجيا",
+        "years": 4,
+        "primary": false
+      }
+    ]
+  },
+  {
+    "university_name": "مدينة زويل للعلوم والتكنولوجيا",
+    "type": "International",
+    "faculties": [
+      {
+        "name": "هندسة",
+        "years": 5,
+        "primary": false
+      },
+      {
+        "name": "علوم",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "حاسبات ومعلومات",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "الأعمال التكنولوجية",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "الكيمياء الحيوية",
+        "years": 4,
+        "primary": false
+      }
+    ]
+  },
+  {
+    "university_name": "الجامعة الروسية المصرية",
+    "type": "private",
+    "faculties": [
+      {
+        "name": "هندسة",
+        "years": 5,
+        "primary": false
+      },
+      {
+        "name": "حاسبات ومعلومات",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "إدارة أعمال",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "صيدلة",
+        "years": 5,
+        "primary": false
+      },
+      {
+        "name": "علوم تطبيقية",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "الفنون التطبيقية",
+        "years": 4,
+        "primary": false
+      }
+    ]
+  },
+  {
+    "university_name": "جامعة بدر",
+    "type": "private",
+    "faculties": [
+      {
+        "name": "طب",
+        "years": 6,
+        "primary": false
+      },
+      {
+        "name": "طب أسنان",
+        "years": 5,
+        "primary": false
+      },
+      {
+        "name": "صيدلة",
+        "years": 5,
+        "primary": false
+      },
+      {
+        "name": "هندسة",
+        "years": 5,
+        "primary": false
+      },
+      {
+        "name": "حاسبات ومعلومات",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "إدارة أعمال",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "السياحة والفنادق",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "العلاج الطبيعي",
+        "years": 4,
+        "primary": false
+      }
+    ]
+  },
+  {
+    "university_name": "جامعة الدلتا للعلوم والتكنولوجيا",
+    "type": "private",
+    "faculties": [
+      {
+        "name": "هندسة",
+        "years": 5,
+        "primary": false
+      },
+      {
+        "name": "حاسبات ومعلومات",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "إدارة أعمال",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "صيدلة",
+        "years": 5,
+        "primary": false
+      },
+      {
+        "name": "طب أسنان",
+        "years": 5,
+        "primary": false
+      },
+      {
+        "name": "العلاج الطبيعي",
+        "years": 4,
+        "primary": false
+      }
+    ]
+  },
+  {
+    "university_name": "جامعة سفنكس",
+    "type": "private",
+    "faculties": [
+      {
+        "name": "طب أسنان",
+        "years": 5,
+        "primary": false
+      },
+      {
+        "name": "هندسة",
+        "years": 5,
+        "primary": false
+      },
+      {
+        "name": "حاسبات ومعلومات",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "إدارة أعمال",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "الألسن",
+        "years": 4,
+        "primary": false
+      }
+    ]
+  },
+  {
+    "university_name": "جامعة مصر للمعلوماتية",
+    "type": "private",
+    "faculties": [
+      {
+        "name": "حاسبات ومعلومات",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "هندسة",
+        "years": 5,
+        "primary": false
+      },
+      {
+        "name": "إدارة أعمال",
+        "years": 4,
+        "primary": false
+      }
+    ]
+  },
+  {
+    "university_name": "جامعة الجزيرة الخاصة",
+    "type": "private",
+    "faculties": [
+      {
+        "name": "طب",
+        "years": 6,
+        "primary": false
+      },
+      {
+        "name": "صيدلة",
+        "years": 5,
+        "primary": false
+      },
+      {
+        "name": "هندسة",
+        "years": 5,
+        "primary": false
+      },
+      {
+        "name": "إدارة أعمال",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "حاسبات ومعلومات",
+        "years": 4,
+        "primary": false
+      }
+    ]
+  },
+  {
+    "university_name": "الجامعة الكندية في مصر (CEU)",
+    "type": "private",
+    "faculties": [
+      {
+        "name": "هندسة",
+        "years": 5,
+        "primary": false
+      },
+      {
+        "name": "حاسبات ومعلومات",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "إدارة أعمال",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "الألسن",
+        "years": 4,
+        "primary": false
+      }
+    ]
+  },
+  {
+    "university_name": "جامعة الأندلس",
+    "type": "private",
+    "faculties": [
+      {
+        "name": "طب",
+        "years": 6,
+        "primary": false
+      },
+      {
+        "name": "صيدلة",
+        "years": 5,
+        "primary": false
+      },
+      {
+        "name": "هندسة",
+        "years": 5,
+        "primary": false
+      },
+      {
+        "name": "حاسبات ومعلومات",
+        "years": 4,
+        "primary": false
+      }
+    ]
+  },
+  {
+    "university_name": "جامعة المصطفى",
+    "type": "private",
+    "faculties": [
+      {
+        "name": "هندسة",
+        "years": 5,
+        "primary": false
+      },
+      {
+        "name": "حاسبات ومعلومات",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "إدارة أعمال",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "صيدلة",
+        "years": 5,
+        "primary": false
+      }
+    ]
+  },
+  {
+    "university_name": "جامعة الشروق",
+    "type": "private",
+    "faculties": [
+      {
+        "name": "هندسة",
+        "years": 5,
+        "primary": false
+      },
+      {
+        "name": "حاسبات ومعلومات",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "إدارة أعمال",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "الاقتصاد والعلوم السياسية",
+        "years": 4,
+        "primary": false
+      }
+    ]
+  },
+  {
+    "university_name": "جامعة ابن خلدون",
+    "type": "private",
+    "faculties": [
+      {
+        "name": "آداب",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "حقوق",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "تجارة",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "إدارة أعمال",
+        "years": 4,
+        "primary": false
+      }
+    ]
+  },
+  {
+    "university_name": "جامعة رشيد",
+    "type": "private",
+    "faculties": [
+      {
+        "name": "هندسة",
+        "years": 5,
+        "primary": false
+      },
+      {
+        "name": "علوم",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "تجارة",
+        "years": 4,
+        "primary": false
+      }
+    ]
+  },
+  {
+    "university_name": "جامعة نوفا",
+    "type": "private",
+    "faculties": [
+      {
+        "name": "هندسة",
+        "years": 5,
+        "primary": false
+      },
+      {
+        "name": "حاسبات ومعلومات",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "إدارة أعمال",
+        "years": 4,
+        "primary": false
+      }
+    ]
+  },
+  {
+    "university_name": "جامعة الفيصل",
+    "type": "private",
+    "faculties": [
+      {
+        "name": "طب",
+        "years": 6,
+        "primary": false
+      },
+      {
+        "name": "صيدلة",
+        "years": 5,
+        "primary": false
+      },
+      {
+        "name": "هندسة",
+        "years": 5,
+        "primary": false
+      },
+      {
+        "name": "إدارة أعمال",
+        "years": 4,
+        "primary": false
+      }
+    ]
+  },
+  {
+    "university_name": "جامعة سبأ",
+    "type": "ahly",
+    "faculties": [
+      {
+        "name": "هندسة",
+        "years": 5,
+        "primary": false
+      },
+      {
+        "name": "حاسبات ومعلومات",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "إدارة أعمال",
+        "years": 4,
+        "primary": false
+      }
+    ]
+  },
+  {
+    "university_name": "أكاديمية طيبة",
+    "type": "private",
+    "faculties": [
+      {
+        "name": "هندسة",
+        "years": 5,
+        "primary": false
+      },
+      {
+        "name": "حاسبات ومعلومات",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "إدارة أعمال",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "الفنون التطبيقية",
+        "years": 4,
+        "primary": false
+      }
+    ]
+  },
+  {
+    "university_name": "جامعة الإبداع والتكنولوجيا",
+    "type": "private",
+    "faculties": [
+      {
+        "name": "هندسة",
+        "years": 5,
+        "primary": false
+      },
+      {
+        "name": "فنون وتصميم",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "حاسبات ومعلومات",
+        "years": 4,
+        "primary": false
+      }
+    ]
+  },
+  {
+    "university_name": "جامعة ميريت",
+    "type": "private",
+    "faculties": [
+      {
+        "name": "طب",
+        "years": 6,
+        "primary": false
+      },
+      {
+        "name": "هندسة",
+        "years": 5,
+        "primary": false
+      },
+      {
+        "name": "حاسبات ومعلومات",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "صيدلة",
+        "years": 5,
+        "primary": false
+      },
+      {
+        "name": "إدارة أعمال",
+        "years": 4,
+        "primary": false
+      }
+    ]
+  },
+  {
+    "university_name": "جامعة المدينة الطبية",
+    "type": "private",
+    "faculties": [
+      {
+        "name": "طب",
+        "years": 6,
+        "primary": false
+      },
+      {
+        "name": "طب أسنان",
+        "years": 5,
+        "primary": false
+      },
+      {
+        "name": "صيدلة",
+        "years": 5,
+        "primary": false
+      },
+      {
+        "name": "تمريض",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "العلاج الطبيعي",
+        "years": 4,
+        "primary": false
+      }
+    ]
+  },
+  {
+    "university_name": "جامعة الإسكندرية الدولية (IAU)",
+    "type": "private",
+    "faculties": [
+      {
+        "name": "هندسة",
+        "years": 5,
+        "primary": false
+      },
+      {
+        "name": "حاسبات ومعلومات",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "إدارة أعمال",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "السياحة والفنادق",
+        "years": 4,
+        "primary": false
+      }
+    ]
+  },
+  {
+    "university_name": "جامعة التكنولوجيا والابتكار",
+    "type": "private",
+    "faculties": [
+      {
+        "name": "هندسة",
+        "years": 5,
+        "primary": false
+      },
+      {
+        "name": "حاسبات ومعلومات",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "إدارة أعمال",
+        "years": 4,
+        "primary": false
+      }
+    ]
+  },
+  {
+    "university_name": "الجامعة الفرنسية في مصر",
+    "type": "International",
+    "faculties": [
+      {
+        "name": "إدارة أعمال",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "قانون",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "لغات وترجمة",
+        "years": 4,
+        "primary": false
+      }
+    ]
+  },
+  {
+    "university_name": "جامعة النور",
+    "type": "private",
+    "faculties": [
+      {
+        "name": "آداب",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "تجارة",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "تربية",
+        "years": 4,
+        "primary": false
+      }
+    ]
+  },
+  {
+    "university_name": "جامعة الإشراق",
+    "type": "private",
+    "faculties": [
+      {
+        "name": "تجارة",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "آداب",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "تربية",
+        "years": 4,
+        "primary": false
+      }
+    ]
+  },
+  {
+    "university_name": "جامعة كيميت",
+    "type": "private",
+    "faculties": [
+      {
+        "name": "آداب",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "الآثار",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "السياحة",
+        "years": 4,
+        "primary": false
+      }
+    ]
+  },
+  {
+    "university_name": "جامعة المعرفة",
+    "type": "private",
+    "faculties": [
+      {
+        "name": "هندسة",
+        "years": 5,
+        "primary": false
+      },
+      {
+        "name": "حاسبات ومعلومات",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "إدارة أعمال",
+        "years": 4,
+        "primary": false
+      }
+    ]
+  },
+  {
+    "university_name": "الأكاديمية البحرية للعلوم والتكنولوجيا",
+    "type": "private",
+    "faculties": [
+      {
+        "name": "الملاحة البحرية",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "هندسة بحرية",
+        "years": 5,
+        "primary": false
+      },
+      {
+        "name": "إدارة الموانئ",
+        "years": 4,
+        "primary": false
+      }
+    ]
+  },
+  {
+    "university_name": "الأكاديمية المصرية للهندسة والتكنولوجيا",
+    "type": "private",
+    "faculties": [
+      {
+        "name": "هندسة",
+        "years": 5,
+        "primary": false
+      },
+      {
+        "name": "حاسبات ومعلومات",
+        "years": 4,
+        "primary": false
+      }
+    ]
+  },
+  {
+    "university_name": "أكاديمية الشروق",
+    "type": "private",
+    "faculties": [
+      {
+        "name": "هندسة",
+        "years": 5,
+        "primary": false
+      },
+      {
+        "name": "حاسبات ومعلومات",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "إدارة أعمال",
+        "years": 4,
+        "primary": false
+      }
+    ]
+  },
+  {
+    "university_name": "معهد الفنون المسرحية",
+    "type": "ahly",
+    "faculties": [
+      {
+        "name": "فنون مسرحية",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "إخراج",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "ديكور مسرحي",
+        "years": 4,
+        "primary": false
+      }
+    ]
+  },
+  {
+    "university_name": "جامعة أنترناشيونال إيجيبت",
+    "type": "private",
+    "faculties": [
+      {
+        "name": "طب",
+        "years": 6,
+        "primary": false
+      },
+      {
+        "name": "طب أسنان",
+        "years": 5,
+        "primary": false
+      },
+      {
+        "name": "هندسة",
+        "years": 5,
+        "primary": false
+      },
+      {
+        "name": "حاسبات ومعلومات",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "صيدلة",
+        "years": 5,
+        "primary": false
+      }
+    ]
+  },
+  {
+    "university_name": "الجامعة المصرية الصينية",
+    "type": "International",
+    "faculties": [
+      {
+        "name": "هندسة",
+        "years": 5,
+        "primary": false
+      },
+      {
+        "name": "حاسبات ومعلومات",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "إدارة أعمال",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "علوم تطبيقية",
+        "years": 4,
+        "primary": false
+      }
+    ]
+  },
+  {
+    "university_name": "جامعة مصر الدولية للعلوم الصحية",
+    "type": "private",
+    "faculties": [
+      {
+        "name": "طب",
+        "years": 6,
+        "primary": false
+      },
+      {
+        "name": "صيدلة",
+        "years": 5,
+        "primary": false
+      },
+      {
+        "name": "تمريض",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "العلاج الطبيعي",
+        "years": 4,
+        "primary": false
+      }
+    ]
+  },
+  {
+    "university_name": "جامعة رأس البر التكنولوجية",
+    "type": "public",
+    "faculties": [
+      {
+        "name": "هندسة",
+        "years": 5,
+        "primary": false
+      },
+      {
+        "name": "حاسبات ومعلومات",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "علوم",
+        "years": 4,
+        "primary": false
+      }
+    ]
+  },
+  {
+    "university_name": "الجامعة اليابانية في مصر",
+    "type": "International",
+    "faculties": [
+      {
+        "name": "هندسة",
+        "years": 5,
+        "primary": false
+      },
+      {
+        "name": "حاسبات ومعلومات",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "إدارة أعمال",
+        "years": 4,
+        "primary": false
+      }
+    ]
+  },
+  {
+    "university_name": "جامعة السويس",
+    "type": "public",
+    "faculties": [
+      {
+        "name": "هندسة",
+        "years": 5,
+        "primary": false
+      },
+      {
+        "name": "علوم",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "آداب",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "تجارة",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "تربية",
+        "years": 4,
+        "primary": false
+      }
+    ]
+  },
+  {
+    "university_name": "جامعة القدس المفتوحة فرع مصر",
+    "type": "International",
+    "faculties": [
+      {
+        "name": "تربية",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "آداب",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "إدارة أعمال",
+        "years": 4,
+        "primary": false
+      }
+    ]
+  },
+  {
+    "university_name": "جامعة نايل فالي الخاصة",
+    "type": "private",
+    "faculties": [
+      {
+        "name": "هندسة",
+        "years": 5,
+        "primary": false
+      },
+      {
+        "name": "حاسبات ومعلومات",
+        "years": 4,
+        "primary": false
+      },
+      {
+        "name": "تجارة",
+        "years": 4,
+        "primary": false
+      }
+    ]
+  }
+]
